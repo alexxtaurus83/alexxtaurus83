@@ -37,8 +37,9 @@ By day, I'm a Principal Engineering Manager leading DevSecOps and Platform Engin
 
 #### 🎮Unity Game Development
 * **[MVVM/MVVC framework for Unity](https://github.com/alexxtaurus83/unity-savableobservable)**
+* **[Attax game](https://github.com/alexxtaurus83/AttaxUnity)**
 
-#### 🔧 AI related
+#### 🔧 ML related
 * **[Attax game clone using TensorFlow.NET](https://github.com/alexxtaurus83/AttaxTensorflow)**
 * **[Attax game clone using Microsoft.ML](https://github.com/alexxtaurus83/AttaxGame)**
 
