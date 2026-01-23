@@ -34,13 +34,16 @@ By day, I'm a Principal Engineering Manager leading DevSecOps and Platform Engin
 
 #### 🎮Unity Game Development
 * **[MVVM/MVVC framework for Unity](https://github.com/alexxtaurus83/unity-savableobservable)**
+* **[Auto attach for inspector](https://github.com/alexxtaurus83/unity-inspector-auto-attach)**
 * **[Attax game](https://github.com/alexxtaurus83/AttaxUnity)**
 
 #### 🔧 AI related
 * **[Attax game clone using TensorFlow.NET](https://github.com/alexxtaurus83/AttaxTensorflow)**
 * **[Attax game clone using Microsoft.ML](https://github.com/alexxtaurus83/AttaxGame)**
+* **[Auto Fix issues detected by Sonar and Fortify using AI](https://github.com/alexxtaurus83/AIHelper)**  
 
 #### ⚙️ Automation & Backend Utilities
+* **[Generate PNG image based on any file](https://github.com/alexxtaurus83/ImageGenerator)**
 * **[Automated file and directory transfer service](https://github.com/alexxtaurus83/SecureFileTransferSuite)**
 * **[My firts try with GRPC](https://github.com/alexxtaurus83/Grpc)**
 * **[LTRData.ImDiskNet Usage with ImDiskWrapper](https://github.com/alexxtaurus83/ImDiskWrapper)**
