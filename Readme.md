@@ -20,13 +20,12 @@ By day, I'm a Principal Engineering Manager leading DevSecOps and Platform Engin
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Vault](https://img.shields.io/badge/HashiCorp%20Vault-636363?style=for-the-badge&logo=hashicorp&logoColor=white)
 ![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Windsurf IDE](https://img.shields.io/badge/Windsurf%20IDE-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini cli](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Qwen cli](https://img.shields.io/badge/Qween-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+
 
 ---
 
