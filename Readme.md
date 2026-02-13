@@ -24,8 +24,8 @@ By day, I'm a Principal Engineering Manager leading DevSecOps and Platform Engin
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini cli](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-![Qwen cli](https://img.shields.io/badge/Qween-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-
+![Qwen cli](https://img.shields.io/badge/Qwen-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Kilo code](https://img.shields.io/badge/Kilo%20code-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 ---
 
