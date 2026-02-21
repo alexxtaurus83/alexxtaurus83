@@ -37,8 +37,8 @@ By day, I'm a Principal Engineering Manager leading DevSecOps and Platform Engin
 * **[Attax game](https://github.com/alexxtaurus83/AttaxUnity)**
 
 #### 🔧 AI related
-* **[Attax game clone using TensorFlow.NET](https://github.com/alexxtaurus83/AttaxTensorflow)**
-* **[Attax game clone using Microsoft.ML](https://github.com/alexxtaurus83/AttaxGame)**
+* **[Attax game clone using TensorFlow.NET (not maintained)](https://github.com/alexxtaurus83/AttaxTensorflow)**
+* **[Attax game clone using Onyx model](https://github.com/alexxtaurus83/AttaxGame)**
 * **[Auto Fix issues detected by Sonar and Fortify using AI](https://github.com/alexxtaurus83/AIHelper)**  
 
 #### ⚙️ Automation & Backend Utilities
