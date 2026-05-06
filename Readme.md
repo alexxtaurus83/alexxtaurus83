@@ -39,7 +39,8 @@ By day, I'm a Principal Engineering Manager leading DevSecOps and Platform Engin
 #### 🔧 AI related
 * **[Attax game clone using TensorFlow.NET (not maintained)](https://github.com/alexxtaurus83/AttaxTensorflow)**
 * **[Attax game clone using ONNX model](https://github.com/alexxtaurus83/AttaxGame)**
-* **[Auto Fix issues detected by Sonar and Fortify using AI](https://github.com/alexxtaurus83/AIHelper)**  
+* **[Auto Fix issues detected by Sonar and Fortify using AI](https://github.com/alexxtaurus83/AIHelper)**
+* **[Orchestrator-driven multi-agent workflow for Copilot Chat](https://github.com/alexxtaurus83/CopilotAgents)**  
 
 #### ⚙️ Automation & Backend Utilities
 * **[Generate PNG image based on any file](https://github.com/alexxtaurus83/ImageGenerator)**
@@ -52,6 +53,7 @@ By day, I'm a Principal Engineering Manager leading DevSecOps and Platform Engin
 * **[.Net TCP Server and Client](https://github.com/alexxtaurus83/TcpClient-Server)**
 
 #### ⚙️ Home Lab (scripts and tools)
+* **[Universal Single Helm Chart](https://github.com/alexxtaurus83/singleHelmChart/tree/develop)**
 * **[Vanilla Kubernetes at Proxmox](https://github.com/alexxtaurus83/vanillaKubernetesInstallationSteps)**
 * **[Useful Power Shell scripts](https://github.com/alexxtaurus83/PowerShell)**
 * **[Groovy scripts for Jenkins](https://github.com/alexxtaurus83/GroovyJenkins)**
