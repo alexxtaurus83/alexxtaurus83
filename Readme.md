@@ -2,7 +2,7 @@
 
 ### 🔧 C# Developer | ⚙️ Automation Enthusiast | 🎮 Game Dev Hobbyist
 
-By day, I'm a Principal Engineering Manager leading DevSecOps and Platform Engineering transformations. By night, this is my digital workshop where.
+By day, I'm a Engineering Manager leading DevSecOps and Platform Engineering transformations. By night, this is my digital workshop where.
 
 ---
 ### 🛠️ Core Technologies & Tools
