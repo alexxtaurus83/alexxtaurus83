@@ -40,7 +40,8 @@ By day, I'm a Principal Engineering Manager leading DevSecOps and Platform Engin
 * **[Attax game clone using TensorFlow.NET (not maintained)](https://github.com/alexxtaurus83/AttaxTensorflow)**
 * **[Attax game clone using ONNX model](https://github.com/alexxtaurus83/AttaxGame)**
 * **[Auto Fix issues detected by Sonar and Fortify using AI](https://github.com/alexxtaurus83/AIHelper)**
-* **[Orchestrator-driven multi-agent workflow for Copilot Chat](https://github.com/alexxtaurus83/CopilotAgents)**  
+* **[Orchestrator-driven multi-agent workflow for Copilot Chat](https://github.com/alexxtaurus83/CopilotAgents)**
+* **[Powershell script to launch (with auto update) CLIProxy & Qdrant](https://github.com/alexxtaurus83/CLIProxyAPI-Qdrant-launcher)**
 
 #### ⚙️ Automation & Backend Utilities
 * **[Generate PNG image based on any file](https://github.com/alexxtaurus83/ImageGenerator)**
