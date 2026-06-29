@@ -2,7 +2,7 @@
 
 ### 🔧 C# Developer | ⚙️ Automation Enthusiast | 🎮 Game Dev Hobbyist
 
-By day, I'm a Principal Engineering Manager leading DevSecOps and Platform Engineering transformations. By night, this is my digital workshop where.
+By day, I'm a Engineering Manager leading DevSecOps and Platform Engineering transformations. By night, this is my digital workshop where.
 
 ---
 ### 🛠️ Core Technologies & Tools
@@ -20,13 +20,12 @@ By day, I'm a Principal Engineering Manager leading DevSecOps and Platform Engin
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Vault](https://img.shields.io/badge/HashiCorp%20Vault-636363?style=for-the-badge&logo=hashicorp&logoColor=white)
 ![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Windsurf IDE](https://img.shields.io/badge/Windsurf%20IDE-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini cli](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Qwen cli](https://img.shields.io/badge/Qwen-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Kilo code](https://img.shields.io/badge/Kilo%20code-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 ---
 
@@ -34,13 +33,18 @@ By day, I'm a Principal Engineering Manager leading DevSecOps and Platform Engin
 
 #### 🎮Unity Game Development
 * **[MVVM/MVVC framework for Unity](https://github.com/alexxtaurus83/unity-savableobservable)**
+* **[Auto attach for inspector](https://github.com/alexxtaurus83/unity-inspector-auto-attach)**
 * **[Attax game](https://github.com/alexxtaurus83/AttaxUnity)**
 
-#### 🔧 ML related
-* **[Attax game clone using TensorFlow.NET](https://github.com/alexxtaurus83/AttaxTensorflow)**
-* **[Attax game clone using Microsoft.ML](https://github.com/alexxtaurus83/AttaxGame)**
+#### 🔧 AI related
+* **[Attax game clone using TensorFlow.NET (not maintained)](https://github.com/alexxtaurus83/AttaxTensorflow)**
+* **[Attax game clone using ONNX model](https://github.com/alexxtaurus83/AttaxGame)**
+* **[Auto Fix issues detected by Sonar and Fortify using AI](https://github.com/alexxtaurus83/AIHelper)**
+* **[Orchestrator-driven multi-agent workflow for Copilot Chat](https://github.com/alexxtaurus83/CopilotAgents)**
+* **[Powershell script to launch (with auto update) CLIProxy & Qdrant](https://github.com/alexxtaurus83/CLIProxyAPI-Qdrant-launcher)**
 
 #### ⚙️ Automation & Backend Utilities
+* **[Generate PNG image based on any file](https://github.com/alexxtaurus83/ImageGenerator)**
 * **[Automated file and directory transfer service](https://github.com/alexxtaurus83/SecureFileTransferSuite)**
 * **[My firts try with GRPC](https://github.com/alexxtaurus83/Grpc)**
 * **[LTRData.ImDiskNet Usage with ImDiskWrapper](https://github.com/alexxtaurus83/ImDiskWrapper)**
@@ -50,6 +54,7 @@ By day, I'm a Principal Engineering Manager leading DevSecOps and Platform Engin
 * **[.Net TCP Server and Client](https://github.com/alexxtaurus83/TcpClient-Server)**
 
 #### ⚙️ Home Lab (scripts and tools)
+* **[Universal Single Helm Chart](https://github.com/alexxtaurus83/singleHelmChart/tree/develop)**
 * **[Vanilla Kubernetes at Proxmox](https://github.com/alexxtaurus83/vanillaKubernetesInstallationSteps)**
 * **[Useful Power Shell scripts](https://github.com/alexxtaurus83/PowerShell)**
 * **[Groovy scripts for Jenkins](https://github.com/alexxtaurus83/GroovyJenkins)**
