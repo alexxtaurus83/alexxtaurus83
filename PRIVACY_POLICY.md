@@ -1,10 +1,10 @@
-# Privacy Policy — Popsicle Panic
+# Privacy Policy — Merge conflict
 
 **Last updated: 2026-06-16**
 
 ## 1. Who We Are
 
-Popsicle Panic is developed and published by an independent developer. Contact: brmgloth.entertainment@gmail.com
+Merge conflict is developed and published by an independent developer. Contact: devevial@gmail.com
 
 ## 2. Data We Collect
 
@@ -47,7 +47,7 @@ Firebase Analytics retains event data for **2 months** (default retention window
 
 ## 6. Children's Privacy
 
-Popsicle Panic is rated for ages 4 and up. We do not knowingly collect personal information from children under 13. The game does not include behavioral advertising or social features. If you believe your child has provided personal data, contact us at brmgloth.entertainment@gmail.com and we will delete it.
+Merge conflict is rated for ages 4 and up. We do not knowingly collect personal information from children under 13. The game does not include behavioral advertising or social features. If you believe your child has provided personal data, contact us at devevial@gmail.com and we will delete it.
 
 ## 7. Your Rights
 
@@ -55,7 +55,7 @@ Depending on your jurisdiction, you may have the right to access, correct, or de
 - Deleting the app (removes all local save data).
 - Resetting your Firebase Analytics identifier in your device's privacy settings.
 
-For any privacy requests, contact: **brmgloth.entertainment@gmail.com**
+For any privacy requests, contact: **devevial@gmail.com**
 
 ## 8. Security
 
@@ -67,4 +67,4 @@ We may update this policy. The date at the top of this document will reflect the
 
 ## 10. Contact
 
-Questions or requests regarding privacy: **brmgloth.entertainment@gmail.com**
+Questions or requests regarding privacy: **devevial@gmail.com**
